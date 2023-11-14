@@ -20,7 +20,7 @@
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "Gatsby" },
+        "logo": { "text": "ButterHan" },
         "navigation": {
             "header": [
                 { "label": "About", "url": "/#about" },

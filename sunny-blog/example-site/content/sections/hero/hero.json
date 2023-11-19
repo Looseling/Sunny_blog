@@ -8,11 +8,11 @@
         "src": "../../images/waving-hand.png",
         "alt": "Waving Hand Emoji"
     },
-    "title": "I'm Batyrkhan ",
+    "title": "I'm Batyrkhan",
     "subtitle": {
         "prefix": " ",
-        "highlight": "and you can call me Butter-Han",
-        "suffix": "."
+        "highlight": "(Butter   ",
+        "suffix": "Han)"
     },
     "description": "just as smooth when it comes to backend solutions.",
     "socialProfiles": {
@@ -20,3 +20,4 @@
         "showIcons": true
     }
 }
+
